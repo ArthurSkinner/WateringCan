@@ -9,3 +9,5 @@ Using an arduino to collect data from 5 moisture sensors, format the data, and p
 I have also used Fritzing to design a PCB arduino sheild, in order to relieve the set up of the breadboard and its jumper cables. Moving forward, I plan to order this self-designed part and install it, along with replace the sensors as they have already oxidized (dont buy cheap ones!) Finally, the next stage would be to move to automated watering, involving pump/valve control, and decision making using my data.
 
 ![](watering_can_schematic_pcb.jpg)
+
+[embed]https://github.com/ArthurSkinner/WateringCan/blob/main/Watering_Can_Schematic_schem.pdf[/embed]

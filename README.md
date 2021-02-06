@@ -10,5 +10,3 @@ I have also used Fritzing to design a PCB arduino sheild, in order to relieve th
 
 ![](watering_can_schematic_pcb.jpg)
 
-[embed]https://github.com/ArthurSkinner/WateringCan/blob/main/Watering_Can_Schematic_schem.pdf[/embed]
-https://github.com/ArthurSkinner/WateringCan/blob/main/Watering_Can_Schematic_schem.pdf

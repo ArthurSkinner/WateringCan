@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Watering Can Schematic
+*Date=11:59:57
+*CreatedBy=Fritzing 0.9.5d.2020-02-07.CD-548-0-3d61c58
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;1x12_machine-pin-header_lock.004;26.8365;-20.6648;180;Bottom;Sensor 5 ______ Sensor 4
+2;;1x12_machine-pin-header_lock.004;26.8365;-41.188;180;Bottom;Sensor 1 ______ Sensor 0
+3;;;7.81297;-15.68;0;Bottom;Via1
+4;;;34.4879;-27.1164;0;Bottom;Arduino Uno
+5;;;10.3264;-25.8465;0;Bottom;Via2
+6;;1x12_machine-pin-header_lock.004;26.8365;-30.8248;180;Bottom;Sensor 3 ______ Sensor 2
